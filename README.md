@@ -1,8 +1,8 @@
 # ISD-2025
 ## Выполнение лабораторных работ и курсового проекта по дисциплине "Методы и средства проектирования информационных систем и технологий (МиСПИСиТ)"
 
-<img src="https://img.shields.io/github/commit-activity/m/nntu-cs/ISD-2025?color=lime&style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/nntu-cs/ISD-2025?color=darkgreen&style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/m/NNTU-CS/ISD-2025?color=lime&style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/NNTU-CS/ISD-2025?color=darkgreen&style=for-the-badge">
 
 ### Примерный список тем
 
